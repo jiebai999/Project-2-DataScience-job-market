@@ -7,4 +7,4 @@ We also used the data professional survey from year 2017-1019 to explore the sal
   To help people (including me) to better understand the data science job market, we built a user driven dashboard to What kind of talent do employers want when they are hiring a data scientist; 
   Which locations in the nation have the most opportunities. 
  In this project, SQLite was used as the database. D3, Javascript, Leaflet or Plotly, and Tableau are used to realize the user friendly dashboard.
- Finaly, the full stack app was deployed on Heoku.
+ Finaly, the full stack app was deployed on Heoku (https://data-science-jobmarket.herokuapp.com/).
